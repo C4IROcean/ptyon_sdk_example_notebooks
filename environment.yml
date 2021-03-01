@@ -5,5 +5,15 @@ dependencies:
   - pandas
   - scipy
   - pip
+  - cmocean
+  - geojson
+  - geopandas
+  - matplotlib
+  - MetPy
+  - python-dateutil
+  - seaborn
+  - tqdm
+  - pygeos
+  - descartes
   - pip:
     - odp-sdk
