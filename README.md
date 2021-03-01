@@ -2,23 +2,14 @@
     <img src="https://raw.githubusercontent.com/C4IROcean/odp-sdk-python/master/docs/source/img/odp-favicon-rgb-blueandwhite.png" alt="ODP logo" title="ODP" align="right" height="100" />
 </a>
 
-# Python SDK for The Ocean Data Platform (ODP)
+# Python SDK Example Notebooks for The Ocean Data Platform (ODP)
 
-Connect to the Ocean Data Platform with Python through the Python SDK. Download queried ocean data easily and efficiently into data frames, for easy exploring and further processing in your data science project.
-
-This is an extensions package to the Cognite Python SDK.
+This repo contains examples in Binder for extra functionality in the ODP Python SDK. You can connect to the Ocean Data Platform with Python through the Python SDK, download queried ocean data easily and efficiently into data frames, and use built-in functionality for for easy exploring and  processing of data.
 
 ## Documentation
 
 [ODP Python SDK Documentation](https://odp-sdk-python.readthedocs.io/en/master/)
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the Ocean Data Platform Python SDK.
-
-```bash
-pip3 install odp_sdk
-```
  
 ## Usage
 
@@ -53,11 +44,7 @@ df=client.casts(longitude=[8,12],
 
 
 ## Utility Functions
-Utility functions available in the Example folder are not included in the pip install package and have to be downloaded separately.
-
 Examples/UtilityFunctions.py include useful features for interpolating and plotting, and also include functions for plotting aspects of data coverage, distributions, cast breakdowns. 
-
-In order to use UtilityFunctions.py, certain packages are necessary. Please see the README in the Examples folder for instructions.
 
 ## Jupyter Notebook Examples 
 Example notebooks are found in the Example folder, which includes:
