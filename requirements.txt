@@ -1,5 +1,6 @@
 numpy>=1.19
 pandas>=0.20
+Cartopy @ file:///opt/concourse/worker/volumes/live/511d75c4-9522-4f88-66b4-8e80acf987d0/volume/cartopy_1594325432085/work
 cognite-sdk>=1.3
 geomet
 cmocean>=2.0
