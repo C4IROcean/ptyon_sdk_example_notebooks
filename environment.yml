@@ -4,5 +4,6 @@ dependencies:
   - cartopy
   - pandas
   - scipy
+  - pip
   - pip:
-    odp-sdk
+    - odp-sdk
