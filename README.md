@@ -6,6 +6,9 @@
 
 This repo contains examples in Binder for extra functionality in the ODP Python SDK. You can connect to the Ocean Data Platform with Python through the Python SDK, download queried ocean data easily and efficiently into data frames, and use built-in functionality for for easy exploring and  processing of data.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C4IROcean/python_sdk_example_notebooks/HEAD)
+ 
+ 
 ## Documentation
 
 [ODP Python SDK Documentation](https://odp-sdk-python.readthedocs.io/en/master/)
