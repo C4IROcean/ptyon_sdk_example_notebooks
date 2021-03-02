@@ -9,12 +9,12 @@ This repo contains examples in Binder for extra functionality in the ODP Python 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C4IROcean/python_sdk_example_notebooks/HEAD)
  
  
-## Documentation
+## Documentation for python SDK
 
 [ODP Python SDK Documentation](https://odp-sdk-python.readthedocs.io/en/master/)
 
  
-## Usage
+## Basic python SDK usage
 
 *Note: Accessing the Ocean Data Platform requires a personal api-key. Contact ODP to require one.*
 
